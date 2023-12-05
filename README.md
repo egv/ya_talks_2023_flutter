@@ -19,6 +19,10 @@ https://killedbygoogle.com
 
 https://fuchsia.dev/
 
+## Бенчмарки
+
+[Dart vs Kotlin](https://programming-language-benchmarks.vercel.app/dart-vs-kotlin)
+
 ## Draggable
 
 [Draggable class](https://api.flutter.dev/flutter/widgets/Draggable-class.html)
